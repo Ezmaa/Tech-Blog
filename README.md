@@ -29,6 +29,12 @@ Now you're ready to start the application! You can start the server by running:
 ```
 node server.js
 ```
+<img width="1417" alt="Screenshot 2023-02-02 at 4 15 16 PM" src="https://user-images.githubusercontent.com/112808494/216452372-359f5f5d-b242-4e74-9535-bacb75a51f0b.png">
+
+<img width="1403" alt="Screenshot 2023-02-02 at 4 16 20 PM" src="https://user-images.githubusercontent.com/112808494/216452452-2ec0f403-d186-4c7d-864d-59b5be248a50.png">
+ 
+<img width="1422" alt="Screenshot 2023-02-02 at 4 16 36 PM" src="https://user-images.githubusercontent.com/112808494/216452580-69a61245-cc74-4f78-be11-98b5a7ca9f90.png">
+
 # License 
 This project is licensed under the MIT license.
 ## Licenses
